@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, my name is Filip
+I am a Computer Science Student in my third year at AGH University of Science and Technology, specializing in software engineering. I am passionate about expanding my knowledge and improving my skills by working on projects and collaborating with others. My focus is on frontend development, aiming to create intuitive and engaging user experiences. I am ambitious, eager to explore new technologies
 
-<!--
-**FilipBienkowski3/FilipBienkowski3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages I know
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java&theme=dark&perline=10"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I have worked with
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,react,nextjs,bootstrap,nodejs,express,flask,spring,mongodb,postgres,sqlite,figma&theme=dark&perline=10"/>
+  </a>
+</p>
